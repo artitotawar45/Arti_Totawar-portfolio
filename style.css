@@ -365,7 +365,7 @@ left:0;
 .circle:nth-child(2) {
     width: 30rem;
 
-    background-image: url("image/PROFESSIONAL_PHOTO.jpeg");
+    background-image: url("PROFESSIONAL_PHOTO.jpeg");
 
     background-size: cover;
 
